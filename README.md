@@ -16,4 +16,4 @@
 Sisesta järgmine URL oma veebilehitseja aadressiribale: `localhost/Blog`.
 Nüüd peaksid nägema blogi lehekülge :).
 
-**Märkus:** See projekt on loodud õppimise eesmärgil. Kopeerimine ja kasutamine on enda vastutusel.
+**Märkus:** <b>See projekt on loodud õppimise eesmärgil. Kopeerimine ja kasutamine on enda vastutusel.</b>
